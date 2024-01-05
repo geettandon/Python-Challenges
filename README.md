@@ -1,4 +1,4 @@
-Python Challenge by Mathew Steel. The link to the challenges can be found on this [link.](https://www.steeldata.org.uk/python.html])
+Python Challenge by Mathew Steel. The link to the challenges can be found on this [link.](https://www.steeldata.org.uk/python.html)
 
 There are 4 challenges. 
 
